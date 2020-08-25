@@ -1,0 +1,17 @@
+table.board {
+    border-collapse: collapse;
+}
+
+.board td {
+    border: 2px solid #555;
+    height: 50px;
+    width: 50px;
+}
+
+h1 {
+    color: red;
+}
+
+.board .exit {
+    background: rgb(248, 196, 196);
+}
